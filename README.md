@@ -38,5 +38,5 @@
      - Send an **approval request via Teams/Email**.  
      - If approved, publish changes; if rejected, notify the author.  
 
-### **Bonus Idea**:  
+### **Side Quest**:  
 - **Auto-Archive Old Reports**: Use Power Automate to move unused Power BI reports to an archive folder after X days of inactivity.  
